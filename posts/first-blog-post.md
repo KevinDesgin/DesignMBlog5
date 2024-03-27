@@ -1,5 +1,5 @@
 ---
-title: Assignment 1: Running Roadless
+title: Assignment 1: Memories
 published_at: 2022-11-04
 snippet: The progression of my editing
 disable_html_sanitization: true
