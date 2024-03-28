@@ -1,5 +1,5 @@
 ---
-title: Assignment 1: Memories
+title: Assignment 1 Memories
 published_at: 2024-03-28
 snippet: The progression of my editing
 disable_html_sanitization: true
